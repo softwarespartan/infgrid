@@ -1,0 +1,12 @@
+<nodeDef>
+    
+    <node groupID="MacBookPro">
+        <hostname>localhost</hostname>
+        <username>abelbrown</username>
+        <password>4Ku-u!aa</password>
+        <maxNumJobs>8</maxNumJobs>
+    </node>
+    
+    
+
+</nodeDef>
